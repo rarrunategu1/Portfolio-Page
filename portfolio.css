@@ -1,0 +1,38 @@
+
+    .text-white { color: #FFF; }
+
+body {padding-top: 50px;
+    background-color: black;
+}
+img {width:100%;}
+
+.amber-bg{
+    background:#ffe082 !important;
+}
+p {font-weight:bold;}
+
+.footer {
+  background: #061D25;
+  padding: 10px 0;
+}
+.footer a {
+  color: #70726F;
+  font-size: 20px;
+  padding: 10px;
+  transition: all .5s ease;
+  
+
+}
+.footer a:hover {
+  color: white;
+  
+}
+.icon {
+  position: relative;
+  /* Adjust these values accordingly */
+  top: 5px;
+  left: 5px;
+}
+
+ 
+    
